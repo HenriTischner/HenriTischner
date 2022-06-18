@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HenriTischner
 - 👀 I’m a mechanical engineer with an interest  in code
-- 🌱 I’m currently learning ROS, C++, Python and Matlab
+- 🌱 I’m currently learning ROS, Java, Python and C++
 
 
 <!---
